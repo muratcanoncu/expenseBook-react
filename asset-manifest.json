@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expenseBook-react/static/css/main.9cbe0142.chunk.css",
+    "main.js": "/expenseBook-react/static/js/main.c776a58a.chunk.js",
+    "main.js.map": "/expenseBook-react/static/js/main.c776a58a.chunk.js.map",
+    "runtime-main.js": "/expenseBook-react/static/js/runtime-main.6e5d0568.js",
+    "runtime-main.js.map": "/expenseBook-react/static/js/runtime-main.6e5d0568.js.map",
+    "static/js/2.bc280f4f.chunk.js": "/expenseBook-react/static/js/2.bc280f4f.chunk.js",
+    "static/js/2.bc280f4f.chunk.js.map": "/expenseBook-react/static/js/2.bc280f4f.chunk.js.map",
+    "index.html": "/expenseBook-react/index.html",
+    "static/css/main.9cbe0142.chunk.css.map": "/expenseBook-react/static/css/main.9cbe0142.chunk.css.map",
+    "static/js/2.bc280f4f.chunk.js.LICENSE.txt": "/expenseBook-react/static/js/2.bc280f4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e5d0568.js",
+    "static/js/2.bc280f4f.chunk.js",
+    "static/css/main.9cbe0142.chunk.css",
+    "static/js/main.c776a58a.chunk.js"
+  ]
+}
